@@ -9,3 +9,7 @@
 # python code block
 print('H W')
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
